@@ -11,6 +11,7 @@ Admin(Admin id, password)
  
 Insurance Agent: (id, name, dob, contact, address, email, password)
 -	Login
+-	Register
 -	Add/View/Delete Policy Holders
 -	Update Policy Holder (Mobile, email)
 -	Add Policy (policy table specified below)
