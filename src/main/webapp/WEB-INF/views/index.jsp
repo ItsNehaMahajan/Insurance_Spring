@@ -196,7 +196,6 @@
     Home insurance provides financial protection against damage to your home and personal property. It typically covers risks such as fire, theft, and certain natural disasters. This type of insurance ensures that you can repair or replace your home and belongings if unexpected events occur, giving you peace of mind and security.
 </p>
 
----
                 <a href="">
                   Read More
                 </a>
@@ -218,7 +217,6 @@
     Health insurance provides coverage for medical expenses incurred due to illnesses or injuries. It helps reduce the financial burden of healthcare costs by covering services such as doctor visits, hospital stays, medications, and preventive care. Having health insurance ensures access to necessary medical treatments and promotes overall well-being.
 </p>
 
----
                 <a href="">
                   Read More
                 </a>
