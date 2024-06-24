@@ -85,9 +85,11 @@
     <!-- end header section -->
   </div>
 
+  
+
   <!-- about section -->
 
-  <section class="about_section about_section1 layout_padding">
+  <section class="about_section about_section1 layout_padding-bottom">
     <div class="container  ">
       <div class="row">
         <div class="col-lg-6 ">
@@ -98,18 +100,18 @@
         <div class="col-lg-6">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
-                About <span>Us</span>
-              </h2>
-            </div>
-            <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
-            </p>
-            <a href="">
-              Read More
+              <div>
+  <h2>
+    About <span>Us</span>
+  </h2>
+</div>
+<div>
+  <p>
+    We are committed to providing reliable insurance solutions tailored to your needs. Our mission is to ensure peace of mind by offering comprehensive coverage and exceptional customer service. Whether you're protecting your home, health, car, or future, we are here to support you every step of the way.
+  </p>
+</div>
+<a href="#">
+  Read More
             </a>
           </div>
         </div>
@@ -133,10 +135,7 @@
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Choosing the right insurance for your family is crucial. It provides financial security and peace of mind in times of need. Whether it's protecting your home, health, or future plans, finding the best coverage ensures your loved ones are well taken care of. We offer tailored insurance solutions designed to meet your family's specific needs, ensuring comprehensive protection and support.
             </p>
             <a href="">
               Read More
@@ -153,6 +152,7 @@
   </section>
 
   <!-- end about section -->
+
 
   <!-- info section -->
   <section class="info_section ">
