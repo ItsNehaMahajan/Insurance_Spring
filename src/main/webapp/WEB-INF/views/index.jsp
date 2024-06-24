@@ -95,7 +95,7 @@
                       and Your Future
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                      Insurance is a financial protection tool against potential losses. It involves paying premiums to an insurer, who in return promises to cover certain risks or damages. This helps individuals and businesses manage uncertainty and mitigate financial impacts from unforeseen events.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -117,7 +117,7 @@
                       and Your Future
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                      Insurance is a financial protection tool against potential losses. It involves paying premiums to an insurer, who in return promises to cover certain risks or damages. This helps individuals and businesses manage uncertainty and mitigate financial impacts from unforeseen events.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -139,7 +139,7 @@
                       and Your Future
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                      Insurance is a financial protection tool against potential losses. It involves paying premiums to an insurer, who in return promises to cover certain risks or damages. This helps individuals and businesses manage uncertainty and mitigate financial impacts from unforeseen events.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -179,9 +179,7 @@
           <h2>
             Our Services
           </h2>
-          <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-          </p>
+         
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-3 ">
@@ -190,12 +188,15 @@
                 <img src="./resources/images/s1.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Home Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+                
+<h5>
+    Home Insurance
+</h5>
+<p>
+    Home insurance provides financial protection against damage to your home and personal property. It typically covers risks such as fire, theft, and certain natural disasters. This type of insurance ensures that you can repair or replace your home and belongings if unexpected events occur, giving you peace of mind and security.
+</p>
+
+---
                 <a href="">
                   Read More
                 </a>
@@ -208,12 +209,16 @@
                 <img src="./resources/images/s2.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Health Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+               
+
+<h5>
+    Health Insurance
+</h5>
+<p>
+    Health insurance provides coverage for medical expenses incurred due to illnesses or injuries. It helps reduce the financial burden of healthcare costs by covering services such as doctor visits, hospital stays, medications, and preventive care. Having health insurance ensures access to necessary medical treatments and promotes overall well-being.
+</p>
+
+---
                 <a href="">
                   Read More
                 </a>
@@ -226,12 +231,13 @@
                 <img src="./resources/images/s3.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Car Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+               <h5>
+    Car Insurance
+</h5>
+<p>
+    Car insurance provides financial protection against physical damage and bodily injury resulting from traffic collisions and against liability that could also arise from incidents in a vehicle. It is a contract between the vehicle owner and the insurance company where the owner pays a premium and the insurance company agrees to pay for losses as outlined in the policy.
+</p>
+
                 <a href="">
                   Read More
                 </a>
@@ -245,11 +251,12 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Life Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+    Life Insurance
+</h5>
+<p>
+    Life insurance is a contract between an insurance policyholder and an insurer, where the insurer promises to pay a designated beneficiary a sum of money upon the death of the insured person. The purpose of life insurance is to provide financial protection to the insured's family or beneficiaries in the event of their death, ensuring they are not burdened with financial hardships.
+</p>
+
                 <a href="">
                   Read More
                 </a>
@@ -282,18 +289,18 @@
         <div class="col-lg-6">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
-                About <span>Us</span>
-              </h2>
-            </div>
-            <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
-            </p>
-            <a href="">
-              Read More
+              <div>
+  <h2>
+    About <span>Us</span>
+  </h2>
+</div>
+<div>
+  <p>
+    We are committed to providing reliable insurance solutions tailored to your needs. Our mission is to ensure peace of mind by offering comprehensive coverage and exceptional customer service. Whether you're protecting your home, health, car, or future, we are here to support you every step of the way.
+  </p>
+</div>
+<a href="#">
+  Read More
             </a>
           </div>
         </div>
@@ -317,10 +324,7 @@
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Choosing the right insurance for your family is crucial. It provides financial security and peace of mind in times of need. Whether it's protecting your home, health, or future plans, finding the best coverage ensures your loved ones are well taken care of. We offer tailored insurance solutions designed to meet your family's specific needs, ensuring comprehensive protection and support.
             </p>
             <a href="">
               Read More
@@ -339,228 +343,7 @@
   <!-- end about section -->
 
 
-  <!-- client section -->
-
-  <section class="client_section layout_padding">
-    <div class="container ">
-      <div class="heading_container heading_center">
-        <h2>
-          What Says Our Client
-        </h2>
-        <hr>
-      </div>
-      <div id="carouselExample2Controls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-lg-7 col-md-9 mx-auto">
-                <div class="client_container ">
-                  <div class="detail-box">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo voluptatibus, et cum alias natus eligendi saepe facilis accusantium quae doloremque atque ea impedit sunt dolorum ipsa quo error perferendis perspiciatis.
-                      Fugit pariatur natus deleniti commodi repellendus sint, voluptatum obcaecati nulla voluptas quisquam cum architecto, aut placeat iusto, doloribus hic consectetur! Illo voluptates quas beatae.
-                      <span>
-                        <i class="fa fa-quote-right" aria-hidden="true"></i>
-                      </span>
-                    </p>
-                  </div>
-                  <div class="client_id">
-                    <div class="img-box">
-                      <img src="images/client.jpg" alt="">
-                    </div>
-                    <div class="client_name">
-                      <h5>
-                        Jone Mark
-                      </h5>
-                      <h6>
-                        Client
-                      </h6>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-lg-7 col-md-9 mx-auto">
-                <div class="client_container ">
-                  <div class="detail-box">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo voluptatibus, et cum alias natus eligendi saepe facilis accusantium quae doloremque atque ea impedit sunt dolorum ipsa quo error perferendis perspiciatis.
-                      Fugit pariatur natus deleniti commodi repellendus sint, voluptatum obcaecati nulla voluptas quisquam cum architecto, aut placeat iusto, doloribus hic consectetur! Illo voluptates quas beatae.
-                      <span>
-                        <i class="fa fa-quote-right" aria-hidden="true"></i>
-                      </span>
-                    </p>
-                  </div>
-                  <div class="client_id">
-                    <div class="img-box">
-                      <img src="./resources/images/client.jpg" alt="">
-                    </div>
-                    <div class="client_name">
-                      <h5>
-                        Jone Mark
-                      </h5>
-                      <h6>
-                        Client
-                      </h6>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-lg-7 col-md-9 mx-auto">
-                <div class="client_container ">
-                  <div class="detail-box">
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo voluptatibus, et cum alias natus eligendi saepe facilis accusantium quae doloremque atque ea impedit sunt dolorum ipsa quo error perferendis perspiciatis.
-                      Fugit pariatur natus deleniti commodi repellendus sint, voluptatum obcaecati nulla voluptas quisquam cum architecto, aut placeat iusto, doloribus hic consectetur! Illo voluptates quas beatae.
-                      <span>
-                        <i class="fa fa-quote-right" aria-hidden="true"></i>
-                      </span>
-                    </p>
-                  </div>
-                  <div class="client_id">
-                    <div class="img-box">
-                      <img src="./resources/images/client.jpg" alt="">
-                    </div>
-                    <div class="client_name">
-                      <h5>
-                        Jone Mark
-                      </h5>
-                      <h6>
-                        Client
-                      </h6>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="carousel_btn-box">
-          <a class="carousel-control-prev" href="#carouselExample2Controls" role="button" data-slide="prev">
-            <span>
-              <i class="fa fa-arrow-left" aria-hidden="true"></i>
-            </span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExample2Controls" role="button" data-slide="next">
-            <span>
-              <i class="fa fa-arrow-right" aria-hidden="true"></i>
-            </span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- end client section -->
-
-  <!-- news section -->
-
-  <section class="news_section layout_padding-bottom">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2>
-          Latest news
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-4 mx-auto">
-          <div class="box">
-            <div class="img-box">
-              <img src="./resources/images/b1.jpg" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Reprehenderit tenetur eos
-              </h5>
-              <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-              </p>
-              <div class="news_info">
-                <h6 class="news_date">
-                  <i class="fa fa-calendar" aria-hidden="true"></i> 28 Sep 2020
-                </h6>
-                <h6 class="news_poster">
-                  <i class="fa fa-user" aria-hidden="true"></i> Andrew James
-                </h6>
-              </div>
-              <a href="">
-                Read More
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 mx-auto">
-          <div class="box">
-            <div class="img-box">
-              <img src="./resources/images/b2.jpg" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Numquam suscipit maxime
-              </h5>
-              <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-              </p>
-              <div class="news_info">
-                <h6 class="news_date">
-                  <i class="fa fa-calendar" aria-hidden="true"></i> 29 Sep 2020
-                </h6>
-                <h6 class="news_poster">
-                  <i class="fa fa-user" aria-hidden="true"></i> Andrew James
-                </h6>
-              </div>
-              <a href="">
-                Read More
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 mx-auto">
-          <div class="box">
-            <div class="img-box">
-              <img src="./resources/images/b3.jpg" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Pariatur deserunt tempora
-              </h5>
-              <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-              </p>
-              <div class="news_info">
-                <h6 class="news_date">
-                  <i class="fa fa-calendar" aria-hidden="true"></i> 30 Sep 2020
-                </h6>
-                <h6 class="news_poster">
-                  <i class="fa fa-user" aria-hidden="true"></i> Andrew James
-                </h6>
-              </div>
-              <a href="">
-                Read More
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="btn-box">
-        <a href="">
-          View More
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- end news section -->
-
+ 
   <!-- info section -->
   <section class="info_section ">
 
@@ -596,7 +379,7 @@
               Contact us
             </h4>
             <p>
-              R.C.Patel Institute Of Technology
+              R. C. Patel Institute of Technology
             </p>
             <div class="contact_nav">
               <a href="">
