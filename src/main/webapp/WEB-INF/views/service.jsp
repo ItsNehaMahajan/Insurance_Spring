@@ -85,7 +85,7 @@
     <!-- end header section -->
   </div>
 
-  <!-- service section -->
+ <!-- service section -->
 
   <section class="service_section layout_padding">
     <div class="service_container">
@@ -94,9 +94,7 @@
           <h2>
             Our Services
           </h2>
-          <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-          </p>
+         
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-3 ">
@@ -105,13 +103,14 @@
                 <img src="./resources/images/s1.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Home Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
-                <a href="">
+                
+<h5>
+    Home Insurance
+</h5>
+<p>
+    Home insurance provides financial protection against damage to your home and personal property. It typically covers risks such as fire, theft, and certain natural disasters. This type of insurance ensures that you can repair or replace your home and belongings if unexpected events occur, giving you peace of mind and security.
+</p>
+<a href="">
                   Read More
                 </a>
               </div>
@@ -123,12 +122,15 @@
                 <img src="./resources/images/s2.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Health Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+               
+
+<h5>
+    Health Insurance
+</h5>
+<p>
+    Health insurance provides coverage for medical expenses incurred due to illnesses or injuries. It helps reduce the financial burden of healthcare costs by covering services such as doctor visits, hospital stays, medications, and preventive care. Having health insurance ensures access to necessary medical treatments and promotes overall well-being.
+</p>
+
                 <a href="">
                   Read More
                 </a>
@@ -141,12 +143,13 @@
                 <img src="./resources/images/s3.png" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Car Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+               <h5>
+    Car Insurance
+</h5>
+<p>
+    Car insurance provides financial protection against physical damage and bodily injury resulting from traffic collisions and against liability that could also arise from incidents in a vehicle. It is a contract between the vehicle owner and the insurance company where the owner pays a premium and the insurance company agrees to pay for losses as outlined in the policy.
+</p>
+
                 <a href="">
                   Read More
                 </a>
@@ -160,11 +163,12 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Life Insurance
-                </h5>
-                <p>
-                  fact that a reader will be distracted by the readable looking at its layout.
-                </p>
+    Life Insurance
+</h5>
+<p>
+    Life insurance is a contract between an insurance policyholder and an insurer, where the insurer promises to pay a designated beneficiary a sum of money upon the death of the insured person. The purpose of life insurance is to provide financial protection to the insured's family or beneficiaries in the event of their death, ensuring they are not burdened with financial hardships.
+</p>
+
                 <a href="">
                   Read More
                 </a>
